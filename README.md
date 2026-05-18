@@ -1,4 +1,3 @@
-# Projeto-2
 # Climate Analysis — Porto Alegre
 
 Projeto em Python desenvolvido para análise e visualização de dados climáticos da cidade de Porto Alegre.
@@ -15,9 +14,10 @@ O objetivo do projeto é coletar, organizar e analisar dados de temperatura, per
 - Análise de variação climática ao longo do período
 - Geração de gráficos para visualização dos dados
 
-##Visualização de dados
+## Visualização de dados
 
 O projeto utiliza gráficos para representar:
+
 - Variação de temperatura ao longo dos meses
 - Comparação entre médias
 - Tendências climáticas
@@ -39,6 +39,25 @@ Durante o desenvolvimento deste projeto foram praticados:
 - Organização de código
 - Lógica de programação em Python
 - Tratamento e estruturação de dados
+
+## Aplicação em empresas
+
+Este projeto demonstra a aplicação de análise de dados climáticos utilizando Python e pode ser adaptado para diferentes contextos empresariais.
+
+### Tomada de decisão baseada em dados
+Permite apoiar decisões estratégicas em planejamento operacional, logística e previsão de demanda.
+
+### Otimização de recursos e redução de custos
+Auxilia na redução de desperdícios e no uso mais eficiente de energia, refrigeração e transporte.
+
+### Identificação de padrões e tendências
+Permite identificar variações sazonais e tendências ao longo do tempo, servindo como base para análises mais avançadas.
+
+### Aplicações em diferentes setores
+Pode ser aplicado em áreas como agricultura, energia, varejo, logística e turismo.
+
+### Relevância para o mercado de trabalho
+Demonstra habilidades em análise de dados, manipulação de informações e visualização com Python.
 
 ## Como executar
 
