@@ -3,11 +3,11 @@
 
 Projeto em Python desenvolvido para análise e visualização de dados climáticos da cidade de Porto Alegre.
 
-## 📊 Objetivo
+##Objetivo
 
 O objetivo do projeto é coletar, organizar e analisar dados de temperatura, permitindo identificar padrões climáticos ao longo do tempo e gerar visualizações gráficas para facilitar a interpretação dos dados.
 
-## ⚙️ Funcionalidades
+##Funcionalidades
 
 - Coleta e armazenamento de dados de temperatura
 - Cálculo de médias mensais e anuais
@@ -15,14 +15,14 @@ O objetivo do projeto é coletar, organizar e analisar dados de temperatura, per
 - Análise de variação climática ao longo do período
 - Geração de gráficos para visualização dos dados
 
-## 📈 Visualização de dados
+##Visualização de dados
 
 O projeto utiliza gráficos para representar:
 - Variação de temperatura ao longo dos meses
 - Comparação entre médias
 - Tendências climáticas
 
-## 🛠️ Tecnologias utilizadas
+##Tecnologias utilizadas
 
 - Python
 - Matplotlib (gráficos)
@@ -30,7 +30,7 @@ O projeto utiliza gráficos para representar:
 - Lógica de programação
 - Manipulação de dados
 
-## 🎯 Aprendizados
+##Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados:
 
@@ -40,7 +40,7 @@ Durante o desenvolvimento deste projeto foram praticados:
 - Lógica de programação em Python
 - Tratamento e estruturação de dados
 
-## 🚀 Como executar
+##Como executar
 
 1. Instale o Python
 2. Instale a biblioteca necessária:
